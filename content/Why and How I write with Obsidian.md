@@ -2,14 +2,14 @@
 
 - **which why**
 	- personal why:
-	    - why write?
-	    - why obsidian?
+	    - [[why I write for self?]]
+	    - [[why I choose obsidian?]]
 	- professional why:
-	    - why write?
-	    - why obsidian?
+	    - [[why I write for work?]]
+	    - [[why i work in obsidian?]]
 - **whose why**
-	- ==why I== choose it over other apps
-	- ==why you== should experiment (BUT decide)
+	- [[why I choose obsidian over other apps]]
+	- [[why you should experiment]] (BUT decide)
 
 ## How
 

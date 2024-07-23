@@ -1,0 +1,12 @@
+
+- super fast: low friction from brain to text
+- offline: 
+	- work in plane and car
+	- turn off internet to avoid distractions
+- great plugins: like many apps in one
+- huge community: battle tested, and full of inspirations
+- mindset and philosophy shift 
+	- from organizing to creating
+	- from top-down to bottom-up
+	- from documenting to thinking
+	- from delivering to deliberate practice

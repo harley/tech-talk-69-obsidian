@@ -1,0 +1,18 @@
+- bottom-up approach
+	- write to think
+	- mindset shift
+- offline
+	- write during commute
+	- privacy
+	- fast search
+- markdown
+	- portable: can read by text editor
+	- lightweight: fast sync to phone
+	- future-proof: not stuck in obsidian, except plugins/canvas
+- linking and tagging
+	- networked thoughts
+	- train the brain
+- features
+	- powerful core features
+	- fun, addictive learnings
+	- plugins: canvas, kanban, tasks, mindmap, etc

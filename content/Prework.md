@@ -3,7 +3,7 @@
  
 - [[Task 1 - Set up Obsidian]]
 - [[Task 2 - Write some daily notes]]
-- Task 3 - Visualize with Canvas
+- [[Task 3 - Use linked notes and Canvas]]
 - Task 4 - Dynamic notes with Dataview plugin
 - Task 5 - Plan with Kanban plugin
 - Task 6 - Fancy TODOs with Tasks plugin

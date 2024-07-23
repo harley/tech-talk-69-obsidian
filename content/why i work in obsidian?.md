@@ -1,0 +1,24 @@
+- experiment
+	- explore new ideas to set us apart
+	- mitigate risks of proprietary lock-in with plain text (markdown)
+	- something more than only using high per-user cost SaaS with lock-in risks such as Notion, Coda, Jira
+- be a role model
+	- develop good writing practices
+	- inspire others to adopt good habits
+- inspire and coach
+	- take notes better to help others
+	- spend more time writing to let others talk
+	- delegate effectively
+- collaboration
+	- easy to look up and share lightweight, plain text docs
+	- easy export and long-term reuse
+	- allow ideas to be reviewed asynchronously
+- "build in public" culture
+	- publish writing to team/public space
+	- similar philosophy as contributing to open source and "build in public"
+	- hold oneself accountable to progress
+- empower employees
+	- encourage skill development and tracking
+	- think beyond task deliveries
+
+caveat: Obsidian is designed for personal use, so it cannot be your primary tool for project work. it could help you take and find notes faster, write and think more clearly, and learn from others. you may hate it, however.

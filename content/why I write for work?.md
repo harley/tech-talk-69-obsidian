@@ -1,0 +1,15 @@
+- enhance communication
+	- clearer info sharing
+	- remote collaboration
+- build documentation-driven culture
+	- better onboarding
+	- searchable knowledge transfer
+- work smarter
+	- clarify plans and priorities
+	- better tracking
+- present better
+	- foundation for speaking and live/recorded video presentations
+	- quality of reports and proposals
+- build image
+	- show expertise and professionalism
+	- branding: personal and company

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Run the Quartz sync command
+npx quartz sync

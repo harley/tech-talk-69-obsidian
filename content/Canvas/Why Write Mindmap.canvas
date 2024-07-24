@@ -8,7 +8,8 @@
 		{"id":"b413b5dea9d8d963","type":"file","file":"why i work in obsidian?.md","x":-2020,"y":200,"width":400,"height":400},
 		{"id":"94af6751d8664542","type":"file","file":"why I write for work?.md","x":-2020,"y":-580,"width":400,"height":400},
 		{"id":"1bd4a437d379e0e0","type":"file","file":"Why and How I write with Obsidian.md","x":-1440,"y":-200,"width":400,"height":760},
-		{"id":"f1fe402e1914b4cc","type":"file","file":"why I choose obsidian?.md","x":-900,"y":200,"width":400,"height":400}
+		{"id":"f1fe402e1914b4cc","type":"file","file":"why I choose obsidian?.md","x":-900,"y":200,"width":400,"height":400},
+		{"id":"c8d341fd917822ff","type":"text","text":"","x":-2237,"y":-136,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"679acd76049bb1d3","fromNode":"1bd4a437d379e0e0","fromSide":"right","toNode":"9e871791fbe80296","toSide":"left"},

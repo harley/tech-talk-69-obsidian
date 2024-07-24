@@ -3,9 +3,9 @@
 2. Create a [[DayTemplate]] note
 3. Type `Cmd + ,` to go to Settings (or use the UI) - set "New file location" and "Template file location" as follow ![[configure-daily-notes-core-plugin.png]]
 4. Create a new day with `Cmd + P` then type "today" again to open Today's note
-5. You should see a cooler template than an empty file. Copy the following content to be the same as [[Daily/2024-07-23|2024-07-23]] 
+5. You should see a cooler template than an empty file. Copy the following content to be the same as [[2024-07-23]] 
 6. Pretend we have created daily notes for many days, by adding more files in the same Daily folder [[2024-07-24]] and [[2024-07-25]]. You should have files that look like this: ![[daily-notes-folder.png]]
-7. Go to [[Daily/2024-07-23|2024-07-23]] and type `Cmd + P`  and type "daily" and navigate "next day" and "previous day" to get the hang of the Daily Notes core plugin.![[daily-shortcuts.png]]
+7. Go to [[2024-07-23]] and type `Cmd + P`  and type "daily" and navigate "next day" and "previous day" to get the hang of the Daily Notes core plugin.![[daily-shortcuts.png]]
 8. Voila! See Bonus section below for how we can make sense of habit tracking data thanks to the metadata `key:: value` format.
 
 

@@ -3,5 +3,5 @@
 > This page is just here to help find the canvas more easily. You'd have to view the canvas in Obsidian.
 
 
-![[Why Write Mindmap.canvas]]
+![[Canvas/Why Write Mindmap.canvas]]
 
